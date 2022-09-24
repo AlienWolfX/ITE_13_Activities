@@ -1,0 +1,11 @@
+Problem 1:
+(Days of the month) Write a C program to input month number and print number of days in that month.
+
+Problem 2:
+(Arithmetic) Write a program that asks the user to enter two numbers, and prints their sum,
+product, difference, quotient and remainder. It should also tell the relationship they satisfy.
+
+Problem 3:
+(Comparing Integers) Write a program that asks the user to enter two integers, obtains the numbers from the user, 
+and then prints the larger number followed by the words "is larger.". If the numbers are equal, 
+print the message "These numbers are equal"
